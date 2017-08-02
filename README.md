@@ -44,6 +44,9 @@ Provide the source code and a README explaining how to view the UI for your simu
 You may use any 3rd party libraries you know well that seem like a fit for the scenario. List the libraries in the README and a blurb about why you chose each one.
 
 Develop for modern browsers and test in them. Your loved ones might be Firefox users even if you’re a diehard Safari or Chrome user.
+
+Please don't check your code into a public repo. 
+
 Good luck!
 
  
